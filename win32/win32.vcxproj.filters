@@ -3,10 +3,14 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="File.c" />
+    <ClCompile Include="TestTabCtrl.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Typedef.h" />
     <ClInclude Include="File.h" />
     <ClInclude Include="Err.h" />
+    <ClInclude Include="WindowUtil.h" />
+    <ClInclude Include="TestTabCtrl.h" />
+    <ClInclude Include="BaseUtil.h" />
+    <ClInclude Include="WindowUtil.hpp" />
   </ItemGroup>
 </Project>
